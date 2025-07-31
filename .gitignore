@@ -180,6 +180,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-data/raw/
-data/raw/**
+# Ignore only parcel-data folder and parcel-data.zip in data/raw/
+data/raw/parcel-data/
+data/raw/parcel-data.zip
+
 .Rproj.user
