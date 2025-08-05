@@ -1,4 +1,40 @@
 agency_fdid,basic_incident_number_fd1,basic_incident_date_original_fd1.3,basic_incident_year_fd1.3,basic_incident_type_code_fd1.21,basic_incident_type_fd1.21,basic_aid_given_or_received_code_fd1.22,basic_aid_given_or_received_fd1.22,basic_property_use_category_fd1.46,basic_property_use_code_fd1.46,basic_property_use_fd1.46,basic_incident_full_street_address,basic_incident_city_name_fd1.16,basic_incident_state_fd1.18,basic_incident_postal_code_fd1.19
+25115,2025001228,2025-07-31,2025.0,743.0,"Smoke detector activation, no fire - unintentional",,nan,4 - Residential,419,1 or 2 family dwelling,878 POPPY HILLS Drive,Blacklick,OH,43004
+25115,2025001227,2025-07-31,2025.0,321.0,"EMS call, excluding vehicle accident with injury",2.0,Automatic aid received,8 - Storage,891,Warehouse,8455 East BROAD Street,Reynoldsburg,OH,43068
+25115,2025001226,2025-07-31,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,8365 HAVENS CORNERS Road,Blacklick,OH,43004
+25115,2025001225,2025-07-30,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7286 POPPY HILLS Court,Blacklick,OH,43004
+25115,2025001224,2025-07-30,2025.0,3211.0,Medical Alarm - Accidental False,,nan,4 - Residential,419,1 or 2 family dwelling,1232 CANTERHURST Street,Blacklick,OH,43004
+25115,2025001223,2025-07-30,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,255 WOODSIDE Drive Southwest,Pataskala,OH,43062
+25115,2025001222,2025-07-30,2025.0,700.0,"False alarm or false call, other",2.0,Automatic aid received,4 - Residential,449,"Hotel/motel, commercial",700 North REYNOLDSBURG NEW ALBANY Road,Blacklick,OH,43004
+25115,2025001221,2025-07-30,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7907 BIRCH CREEK Drive,Blacklick,OH,43004
+25115,2025001220,2025-07-30,2025.0,611.0,Dispatched and cancelled en route,4.0,Automatic aid given,nan,nan,nan,PARK Avenue and W BROAD ST,City of Pataskala,OH,43062
+25115,2025001219,2025-07-29,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,8 - Storage,888,Fire station,6767 HAVENS CORNERS Road,Blacklick,OH,43004
+25115,2025001218,2025-07-29,2025.0,111.0,Building fire,2.0,Automatic aid received,4 - Residential,429,Multifamily dwelling,8365 HUMBOLDT Road,Blacklick,OH,43004
+25115,2025001217,2025-07-29,2025.0,321.0,"EMS call, excluding vehicle accident with injury",2.0,Automatic aid received,4 - Residential,429,Multifamily dwelling,72 SUDBURY Loop,Blacklick,OH,43004
+25115,2025001216,2025-07-29,2025.0,611.0,Dispatched and cancelled en route,4.0,Automatic aid given,nan,nan,nan,603 CONINE Way,Pataskala,OH,43062
+25115,2025001215,2025-07-29,2025.0,111.0,Building fire,4.0,Automatic aid given,nan,nan,nan,131 North HIGH Street,Gahanna,OH,43230
+25115,2025001214,2025-07-28,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7758 JEFFERSON Run,Blacklick,OH,43004
+25115,2025001213,2025-07-28,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,1599 BENT MAPLE Drive,Blacklick,OH,43004
+25115,2025001212,2025-07-28,2025.0,461.0,Building or structure weakened or collapsed,4.0,Automatic aid given,4 - Residential,429,Multifamily dwelling,842 FALCON HUNTER Way,Gahanna,OH,43230
+25115,2025001211,2025-07-28,2025.0,321.0,"EMS call, excluding vehicle accident with injury",2.0,Automatic aid received,"3 - Health Care, Detention & Correction",311,"24-hour care Nursing homes, 4 or more persons",5201 MORSE Road,Gahanna,OH,43230
+25115,2025001210,2025-07-28,2025.0,736.0,CO detector activation due to malfunction,,nan,4 - Residential,419,1 or 2 family dwelling,6605 WHEATLY Road,New Albany,OH,43054
+25115,2025001209,2025-07-28,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7991 HAVENS Road,Blacklick,OH,43004
+25115,2025001208,2025-07-27,2025.0,744.0,"Detector activation, no fire - unintentional",,nan,4 - Residential,419,1 or 2 family dwelling,979 VANWERT Loop,Blacklick,OH,43004
+25115,2025001207,2025-07-27,2025.0,321.0,"EMS call, excluding vehicle accident with injury",2.0,Automatic aid received,4 - Residential,419,1 or 2 family dwelling,3046 KNOLL Drive,Gahanna,OH,43230
+25115,2025001206,2025-07-27,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7751 LANTANA Avenue,Blacklick,OH,43004
+25115,2025001205,2025-07-26,2025.0,814.0,Lightning strike (no fire),,nan,4 - Residential,419,1 or 2 family dwelling,3399 MANN Road,Gahanna,OH,43230
+25115,2025001204,2025-07-26,2025.0,611.0,Dispatched and cancelled en route,,nan,4 - Residential,419,1 or 2 family dwelling,1129 STREAMSIDE Drive,Blacklick,OH,43004
+25115,2025001203,2025-07-26,2025.0,321.0,"EMS call, excluding vehicle accident with injury",2.0,Automatic aid received,"5 - Mercantile, Business",519,"Food and beverage sales, grocery store",8301 East BROAD Street,Reynoldsburg,OH,43068
+25115,2025001202,2025-07-26,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,2718 SKELTON Lane,Blacklick,OH,43004
+25115,2025001201,2025-07-26,2025.0,321.0,"EMS call, excluding vehicle accident with injury",4.0,Automatic aid given,nan,nan,nan,5232 SUMMIT Road Southwest,Pataskala,OH,43062
+25115,2025001200,2025-07-26,2025.0,554.0,Assist invalid,,nan,4 - Residential,419,1 or 2 family dwelling,7751 LANTANA Avenue,Blacklick,OH,43004
+25115,2025001199,2025-07-26,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,1 - Assembly,160,"Eating, drinking places, other",3001 North REYNOLDSBURG-NEW ALBANY Road,New Albany,OH,43054
+25115,2025001198,2025-07-25,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,429,Multifamily dwelling,714 North REYNOLDSBURG NEW ALBANY Road,Blacklick,OH,43004
+25115,2025001197,2025-07-25,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,7812 FREESIA Street,Blacklick,OH,43004
+25115,2025001196,2025-07-25,2025.0,324.0,Motor vehicle accident with no injuries.,,nan,9 - Outside or Special Property,962,"Residential street, road or residential driveway",6235 MORSE Road,New Albany,OH,43054
+25115,2025001195,2025-07-25,2025.0,745.0,"Alarm system activation, no fire - unintentional",4.0,Automatic aid given,nan,nan,nan,1125 GAHANNA Parkway,Gahanna,OH,43230
+25115,2025001194,2025-07-25,2025.0,611.0,Dispatched and cancelled en route,,nan,nan,nan,nan,1253 North WAGGONER Road,Blacklick,OH,43004
+25115,2025001193,2025-07-25,2025.0,321.0,"EMS call, excluding vehicle accident with injury",4.0,Automatic aid given,nan,nan,nan,748 TAYLOR Road,Gahanna,OH,43230
 25115,2025001192,2025-07-25,2025.0,321.0,"EMS call, excluding vehicle accident with injury",,nan,4 - Residential,419,1 or 2 family dwelling,2899 North REYNOLDSBURG NEW ALBANY Road,Blacklick,OH,43004
 25115,2025001191,2025-07-24,2025.0,554.0,Assist invalid,,nan,4 - Residential,429,Multifamily dwelling,8340 FAIR OAK Drive,Blacklick,OH,43004
 25115,2025001190,2025-07-24,2025.0,622.0,No incident found on arrival at dispatch address,,nan,9 - Outside or Special Property,963,Street or road in commercial area,6010 TAYLOR Road,Gahanna,OH,43230
